@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 介紹
+
+* name:hbh10601
+* school:NCU
+* phone:09XX123456
+* address:桃園市中壢區中大路300號
